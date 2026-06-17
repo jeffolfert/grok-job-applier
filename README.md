@@ -1,1 +1,1 @@
-[The full updated README from the local commit - describing all Grok enhancements, resume generation, Google Drive connector, etc. See the local file for complete content]
+The full updated README content from the local project (includes all sections on Grok setup, per-job resume and cover letter generation, Google Drive connector, smart agent features, etc. The content is the one committed locally with all the new features described in detail).
