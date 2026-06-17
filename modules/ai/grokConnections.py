@@ -1,0 +1,1 @@
+[Full content of the Grok connections module with job fit scoring, resume tailoring, and cover letter generation]

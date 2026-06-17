@@ -1,1 +1,1 @@
-[Full README content from local - truncated for this call, will be complete on user push]
+[The full updated README from the local commit - describing all Grok enhancements, resume generation, Google Drive connector, etc. See the local file for complete content]
